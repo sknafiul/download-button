@@ -11,6 +11,9 @@ body{
      align-items: center;
      justify-content: center;
     }
+    body a {
+        text-decoration: none;
+    }
     .button{
         position: relative;
         height: 55px;
